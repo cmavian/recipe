@@ -1,3 +1,10 @@
+ingredients:
+dough
+red sauce
+cheese
+sausage
+
+
 directions:
 toss dough
 spread sauce
