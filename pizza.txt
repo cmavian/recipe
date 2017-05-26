@@ -3,7 +3,7 @@ dough
 red sauce
 cheese
 sausage
-anchovies
+
 
 directions:
 toss dough
